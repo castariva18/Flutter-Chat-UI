@@ -4,6 +4,12 @@ A simple chat app UI using flutter SDK project.
 
 ## Getting Started
 
+<span align="center"><img width="180px" height="360px" src="https://github.com/castariva18/Flutter-Chat-UI/blob/master/assets/ss1.png?raw=true"></span>
+
+<span align="center"><img width="180px" height="360px" src="https://github.com/castariva18/Flutter-Chat-UI/blob/master/assets/ss2.png?raw=true"></span>
+
+## Getting Started
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
