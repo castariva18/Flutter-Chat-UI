@@ -5,7 +5,6 @@ A simple chat app UI using flutter SDK project.
 ## Screenshot
 
 <span align="center"><img width="180px" height="360px" src="https://github.com/castariva18/Flutter-Chat-UI/blob/master/assets/ss1.png?raw=true"></span>
-
 <span align="center"><img width="180px" height="360px" src="https://github.com/castariva18/Flutter-Chat-UI/blob/master/assets/ss2.png?raw=true"></span>
 
 ## Getting Started
